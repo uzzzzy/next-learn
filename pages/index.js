@@ -4,7 +4,7 @@ import Layout from "../components/layouts/Main"
 export default function Home() {
   return (
     <div className="p-5">
-      Nomaden Group
+      Learn Next Js
     </div>
   )
 }
