@@ -3,8 +3,8 @@ import Layout from "../components/layouts/Main"
 
 export default function Home() {
   return (
-    <div>
-      Nomaden
+    <div className="p-5">
+      Nomaden Group
     </div>
   )
 }
